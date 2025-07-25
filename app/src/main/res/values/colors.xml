@@ -11,6 +11,6 @@
     <color name="dark_gray">#444444</color>
     <color name="button_background">#FF9800</color>
     <color name="button_text">#FFFFFF</color>
-    <color name="dark_text_color">#444444</color>
+    <color name="dark_text_color">#212121</color>
 
 </resources>
