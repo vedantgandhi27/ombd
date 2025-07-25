@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For Main Activity -->
+    <dimen name="activity_padding">16dp</dimen>
+    <dimen name="edittext_height">152dp</dimen>
+    <dimen name="edittext_margin_top">16dp</dimen>
+    <dimen name="edittext_margin_bottom">8dp</dimen>
+    <dimen name="edittext_margin_side">8dp</dimen>
+    <dimen name="button_height">68dp</dimen>
+    <!-- For Movie Detail Activity -->
+    <dimen name="detail_padding">16dp</dimen>
+    <dimen name="poster_width">382dp</dimen>
+    <dimen name="poster_height">517dp</dimen>
+    <dimen name="padding_top">150dp</dimen>
+    <dimen name="poster_margin_top">16dp</dimen>
+    <dimen name="poster_padding">450dp</dimen>
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="title_padding_top">12dp</dimen>
+    <dimen name="item_title_text_size">18sp</dimen>
+    <dimen name="search_padding">12dp</dimen>
+</resources>

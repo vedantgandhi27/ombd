@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.IMBD" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/violet</item>
+        <item name="colorPrimaryDark">@color/purple_dark</item>
+        <item name="colorAccent">@color/cyan</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
